@@ -5,6 +5,7 @@ Last Saved: "Jul 25 Sat, 2020"
 
 Idea: Chilli Paste + Onion Tamrind Paste (Sauteed Onion + Tamrind Pulp) with crispy topping.
 
+#+begin_src
 | SNo. | Group          | Items               | Qty             | Comments                  |
 |------+----------------+---------------------+-----------------+---------------------------|
 |      |                | redchilli           | 10 red chillies | fry low flames for 3 mins |
@@ -23,3 +24,4 @@ Idea: Chilli Paste + Onion Tamrind Paste (Sauteed Onion + Tamrind Pulp) with cri
 |      |                | Garlic              | 5               |                           |
 |      |                | Curry leaves        | pinch           |                           |
 |      |                | asafoetida          | pinch           |                           |
+#+end_src

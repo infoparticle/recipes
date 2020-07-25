@@ -1,0 +1,13 @@
+#+TITLE: My Recipes!
+Last Saved: "Jul 25 Sat, 2020"
+
+
+
+** Links
+
+*** Veg
+
+| Health Group | Serving Type | Food Family | Comments       | Link          |
+|--------------+--------------+-------------+----------------+---------------|
+| Traditional  | Side dish    | Chutney     | Onion Chutney! | [[file:contents/veg/chutinies.org][Onion Chutney]] |
+|              |              |             |                |               |
