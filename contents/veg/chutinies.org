@@ -1,0 +1,25 @@
+#+TITLE: Chutnies!
+Last Saved: "Jul 25 Sat, 2020"
+
+* Onion Chutney
+
+Idea: Chilli Paste + Onion Tamrind Paste (Sauteed Onion + Tamrind Pulp) with crispy topping.
+
+| SNo. | Group          | Items               | Qty             | Comments                  |
+|------+----------------+---------------------+-----------------+---------------------------|
+|      |                | redchilli           | 10 red chillies | fry low flames for 3 mins |
+|    1 | Chilli Paste   | fenugreek           |                 | Grind it into paste       |
+|      |                | corriander seeds    |                 |                           |
+|      |                | seasme oil          |                 |                           |
+|------+----------------+---------------------+-----------------+---------------------------|
+|    2 | Sauteed Onion  | Tamrind             | 1 lemon size    |                           |
+|      | With Tamrind   | Onions              | 2               | 5 mins frying and make    |
+|      | paste          | Cooking oil         | 1 ts            | paste                     |
+|      |                | Turmeric            | 1/2 ts          |                           |
+|------+----------------+---------------------+-----------------+---------------------------|
+|      |                | cooking/coconut oil | 2 ts            |                           |
+|    3 | Crispy Topping | urud dhal           | 1/2 ts          |                           |
+|      |                | mustard             | 1/2 ts          |                           |
+|      |                | Garlic              | 5               |                           |
+|      |                | Curry leaves        | pinch           |                           |
+|      |                | asafoetida          | pinch           |                           |

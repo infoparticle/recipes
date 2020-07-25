@@ -1,3 +1,6 @@
 ltximg/*
 .sw*
 *.*~
+tmp/*
+private/*
+partial/*
